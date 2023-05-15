@@ -1,0 +1,2 @@
+# kirja_johdanto_koneoppimiseen
+Esimerkkeja kirjassani Johdanto koneoppimiseen
