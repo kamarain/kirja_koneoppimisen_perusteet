@@ -1,4 +1,10 @@
-# Johdatus koneoppimiseen 
-Esimerkkiohjelmia kirjaani Johdatus koneoppimiseen
+# Koneoppimisen perusteet 
+Esimerkkiohjelmia kirjaani Koneoppimisen perusteet
 
-Tämä varasto (*repository*) sisältää Python-koodit, joilla kirjani Johdatus koneoppimiseen (Gaudeamus 2023) kuvat ja esimerkit on tehty. Kunkin koodin nimestä selviää kappale, jossa sitä on käytetty ja mitä koodi tekee. Python-lähdekoodien nimeämisessä ja osittain myös kommenteissa on käytetty englantia, koska se on usein luonnollisempaa ohjelmoijille.
+Tämä koodivarasto (*repository*) sisältää Python-koodit, joilla on tuotettu kirjan
+
+ * Joni Kämäräinen (2023): *Koneoppimisen perusteet*, Gaudeamus, Helsinki [URL](https://www.gaudeamus.fi/teos/koneoppimisen-perusteet/)
+
+esimerkit ja niihin liittyvät grafiikat.
+
+Kunkin koodin nimestä selviää kappale, jossa sitä on käytetty ja mitä koodi tekee. Python-lähdekoodien nimeämisessä ja osittain myös kommenteissa on käytetty englantia, koska se on luonnollisempaa ohjelmoijille.
