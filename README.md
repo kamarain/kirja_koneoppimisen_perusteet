@@ -7,7 +7,9 @@ Tämä koodivarasto (*repository*) sisältää Python-koodit, joilla on tuotettu
 
 esimerkit ja niihin liittyvät grafiikat.
 
-Kunkin koodin nimestä selviää kappale, jossa sitä on käytetty ja mitä koodi tekee. Python-lähdekoodien nimeämisessä ja osittain myös kommenteissa on käytetty englantia, koska se on luonnollisempaa ohjelmoijille.
+Kunkin koodin nimestä selviää kappale, jossa sitä on käytetty ja mitä koodi tekee. Python-lähdekoodien nimeämisessä ja osittain myös kommenteissa on käytetty englantia, koska se on luonnollisempaa ohjelmoijille. Esimerkit löytyvät *examples/* hakemistosta.
+
+Koodi on testattu Python-versioilla 3.9 ja 3.10 Linux ja MacOS -ympäristöissä. Pythonin asennukseen suositellaan Anaconda-työkalua. 
 
 Koodia varten pitää asentaa seuraavat paketit:
 
