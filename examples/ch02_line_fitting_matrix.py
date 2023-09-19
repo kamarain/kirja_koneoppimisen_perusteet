@@ -19,7 +19,8 @@ plt.title('Opetusaineisto suoran sovitukseen')
 plt.xlabel('pituus [m]')
 plt.ylabel('paino [kg]')
 plt.axis([0,2,0,150])
-plt.savefig(gaud_sty.save_dir+'ch02_line_fitting_matrix_1.png')
+if gaud_sty.savefig:
+    plt.savefig(gaud_sty.save_dir+'ch02_line_fitting_matrix_1.png')
 plt.show()
 
 #
@@ -67,7 +68,8 @@ y=w0+w1*x+w2*x**2+y_noise
 plt.plot(x,y,'ko')
 plt.title(f"Kohinaisia pisteitä käyrältä y=5x^2+2x-5")
 #plt.axis([-1,+1,-11,-7])
-plt.savefig(gaud_sty.save_dir+'ch02_line_fitting_matrix_3.png')
+if gaud_sty.savefig:
+    plt.savefig(gaud_sty.save_dir+'ch02_line_fitting_matrix_3.png')
 plt.show()
 
 # Form X and y

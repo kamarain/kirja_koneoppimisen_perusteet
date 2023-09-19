@@ -190,7 +190,11 @@ plt.title('Opetusaineisto suoran sovitukseen')
 plt.xlabel('pituus [m]')
 plt.ylabel('paino [kg]')
 plt.axis([0,2,0,150])
-plt.savefig(gaud_sty.save_dir+'ch02_line_fitting_5.png')
+if gaud_sty.savefig:
+    if gaud_sty.color:
+        plt.savefig(gaud_sty.save_dir+'ch02_line_fitting_5_col.png')
+    else:
+        plt.savefig(gaud_sty.save_dir+'ch02_line_fitting_5.png')
 plt.show()
 
 # Compute MSE heat map for different a and b
