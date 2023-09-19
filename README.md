@@ -11,8 +11,11 @@ Kunkin koodin nimestä selviää kappale, jossa sitä on käytetty ja mitä kood
 
 Koodi on testattu Python-versioilla 3.9 ja 3.10 Linux ja MacOS -ympäristöissä. Pythonin asennukseen suositellaan Anaconda-työkalua. 
 
-Koodia varten pitää asentaa seuraavat paketit:
+Koodia varten pitää asentaa ainakin seuraavat paketit, joita ei välttämättä löydy normaaleilla asennustyökaluilla:
 
  * Datapaketti (Python-versio) [Cifar-10 kotisivulta](https://www.cs.toronto.edu/~kriz/cifar.html) (Luku 6)
  * Sklearn-SOM itseorganisoituva kartta V1.1.0 [sklearn-som](https://pypi.org/project/sklearn-som/) (Luku 6)
 
+Kaikista virheistä ja bugeista voi ilmoittaa sähköpostitse kirjan tekijälle ja yhteystiedot löytyvät täältä: [Joni's homepage](https://webpages.tuni.fi/vision/public_pages/JoniKamarainen/index.html)
+
+-Joni
