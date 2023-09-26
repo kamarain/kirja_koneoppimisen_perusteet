@@ -18,4 +18,6 @@ Koodia varten pitää asentaa ainakin seuraavat paketit, joita ei välttämätt�
 
 Kaikista virheistä ja bugeista voi ilmoittaa sähköpostitse kirjan tekijälle ja yhteystiedot löytyvät täältä: [Joni's homepage](https://webpages.tuni.fi/vision/public_pages/JoniKamarainen/index.html)
 
+**Kurssien vastuuhenkilöt:** Halutessanne voitte pyytää minulta myös kuhunkin kappaleeseen liittyviä Jupyter Notebook tiedostoja (englanninkielisiä), joita voitte käyttää omassa opetuksessanne. Näiden lisäksi minulla on myös käsinkirjoitetut "nuotit", jokaista luentoa varten (pääasiassa kirjoitan taululle ja näytän esimerkkejä Jupyterin kautta).
+
 -Joni
